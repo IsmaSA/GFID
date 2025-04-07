@@ -78,8 +78,8 @@ cd GFID
 
 # Check structure
 ```r
-glimpse(df_overall)
-glimpse(df_impacts)
+glimpse(df)
+glimpse(df1)
 
  ```
 
