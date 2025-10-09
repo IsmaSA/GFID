@@ -98,8 +98,6 @@ License: Creative Commons Attribution (CC BY 4.0). You are free to share and ada
 Suggested citation:
 Haubrock, P.J., Novello, M., Abreo, N.A., Blonska, D., Franco, A.C.S., Soto, I., Castaldelli, G., Katsanevakis, S., Kouba, A., Balzani, P., Kurtul, I., Tarkan, A.S., Briski, E., Britton, R. (2025). GFID: A Global Fish Invasion Database. ...
 
-Check the final published article (if available) for an updated DOI and citation format.
-
 Acknowledgements
 Work on GFID was supported by grants from HORIZON-MSCA-2022-PF-01 (DIRECT, Grant No. 101203662; PROSPER, Grant No. 101105250). Please see the paper and repository documentation for full acknowledgements.
 Thank you for using GFID! If you find this database helpful, please consider sharing your results or improvements with the community.
