@@ -75,11 +75,12 @@ cd GFID
 ```
 
 ### Load the Data
+Here, please load the data as you wish, for example: ``` df = read_xlsx('GFID.xlsx')  ```; however, you may need to adapt this 
 
 # Check structure
 ```r
 glimpse(df)
-glimpse(df1)
+
 
  ```
 
